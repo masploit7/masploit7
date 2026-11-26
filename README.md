@@ -73,7 +73,7 @@ I also create educational content focused on cybersecurity and technology, shari
 - 📚 Breaking down technical topics into understandable explanations.
 - 💡 Sharing knowledge and encouraging curiosity about the digital world.
 
-[![YouTube](https://img.shields.io/badge/YouTube-My_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([YOUR_YOUTUBE_CHANNEL_URL](https://www.youtube.com/@masploit))
+[![YouTube](https://img.shields.io/badge/YouTube-My_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masploit)
 ---
 ### 📊 GitHub Statistics
 
