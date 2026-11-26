@@ -64,7 +64,7 @@ I enjoy exploring technology through hands-on labs, practical experiments, troub
 - Automation & Security Engineering
 
 ---
-### 🎥 Content Creater
+### 🎥 Content Creation
 
 I also create educational content focused on cybersecurity and technology, sharing technical concepts, practical knowledge, and security awareness in an accessible way.
 
