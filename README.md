@@ -2,7 +2,7 @@
 
 ### Cybersecurity Enthusiast | Network Security | Linux & Systems Administration | OT/SCADA Security
 
-I'm a cybersecurity student passionate about understanding how systems operate, how vulnerabilities emerge, and how technology can be made more secure. My interests span network security, infrastructure defense, Linux, and industrial cybersecurity.
+Security Researcher passionate about understanding how systems operate, how vulnerabilities emerge, and how technology can be made more secure. My interests span network security, infrastructure defense, Linux, and industrial cybersecurity.
 
 I enjoy exploring technology through hands-on labs, practical experiments, troubleshooting, and building projects that turn theoretical knowledge into real-world skills.
 
