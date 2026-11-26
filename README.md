@@ -23,8 +23,6 @@ I enjoy exploring technology through hands-on labs, practical experiments, troub
 
 **Operating Systems & Administration**
 
-**Operating Systems & Administration**
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -67,11 +65,6 @@ I enjoy exploring technology through hands-on labs, practical experiments, troub
 ### 🎥 Content Creation
 
 I also create educational content focused on cybersecurity and technology, sharing technical concepts, practical knowledge, and security awareness in an accessible way.
-
-- 🎬 Creating cybersecurity and technology-focused videos.
-- 🔐 Exploring cybersecurity awareness, ethical hacking, and security concepts.
-- 📚 Breaking down technical topics into understandable explanations.
-- 💡 Sharing knowledge and encouraging curiosity about the digital world.
 
 [![YouTube](https://img.shields.io/badge/YouTube-My_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@masploit)
 ---
