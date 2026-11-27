@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohamed Ashraf
+# Hi there 👋, I'm Muhammad Ashraf
 
 ### Cybersecurity Enthusiast | Network Security | Linux & Systems Administration | OT/SCADA Security
 
